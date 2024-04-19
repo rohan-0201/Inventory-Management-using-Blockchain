@@ -7,3 +7,7 @@ The blockchain functionality is responsible for creating, verifying, and auditin
 The program also supports loading and saving the blockchain state from a JSON file, ensuring persistence and continuity across sessions. Users can view their transaction history and the blockchain state to verify their actions and maintain trust in the system.
 
 The program also has real-time updates for the inventory. 
+
+Contributions also made by:
+Pranav Rao : https://github.com/Pr-n-v
+Sripriya Addanki : https://github.com/sripriya204
